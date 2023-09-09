@@ -1,0 +1,98 @@
+---
+id: base6-38
+name: Dark Dragonair
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '28'
+hp: '60'
+types:
+- Colorless
+evolvesFrom: Dratini
+evolvesTo:
+- Dragonite
+abilities:
+- name: Evolutionary Light
+  text: Once during your turn (before your attack), you may search your deck for an
+    Evolution card. Show it to your opponent and put it into your hand. Shuffle your
+    deck afterward. This power can't be used if Dark Dragonair is affected by a Special
+    Condition.
+  type: Pokémon Power
+attacks:
+- name: Tail Strike
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 20+
+  text: Flip a coin. If heads, this attack does 20 damage plus 20 more damage; if
+    tails, this attack does 20 damage.
+resistances:
+- type: Psychic
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: base6
+  name: Legendary Collection
+  series: Other
+  printedTotal: 110
+  total: 110
+  legalities:
+    unlimited: Legal
+  ptcgoCode: LC
+  releaseDate: 2002/05/24
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/base6/symbol.png
+    logo: https://images.pokemontcg.io/base6/logo.png
+number: '38'
+artist: Kagemaru Himeno
+rarity: Uncommon
+flavorText: As is fitting for a legendary Pokémon, it has many strange powers, including
+  the ability to make rain or snow fall.
+nationalPokedexNumbers:
+- 148
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/base6/38.png
+  large: https://images.pokemontcg.io/base6/38_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/base6-38
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 0.72
+      mid: 1.98
+      high: 5.66
+      market: 1.57
+      directLow: 2.19
+    reverseHolofoil:
+      low: 84.64
+      mid: 94.99
+      high: 109.97
+      market: 122.52
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/base6-38
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 1.78
+    lowPrice: 0.25
+    trendPrice: 1.96
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 44.88
+    reverseHoloTrend: 57.27
+    lowPriceExPlus: 1.2
+    avg1: 1.0
+    avg7: 1.82
+    avg30: 1.47
+    reverseHoloAvg1: 50.0
+    reverseHoloAvg7: 62.33
+    reverseHoloAvg30: 44.48
